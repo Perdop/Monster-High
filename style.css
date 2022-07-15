@@ -1,18 +1,18 @@
 *{
     padding: 0;
-    margin: 0;
+    margin: 1vh;
     font-family: Candara, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body{
     display: flex;
     flex-direction: column;
-    width: 95vw;
+    width: 98vw;
     margin: auto;
 }
 header{
     background-color: black;
-    height: 25vh;
+    height: 35vh;
 }
 body span{
     display: flex;
@@ -20,15 +20,15 @@ body span{
 }
 article{
     background-color: green;
-    height: 70vh;
-    width: 70vw;
+    height: 100vh;
+    width: 80vw;
 }
 aside{
     background-color: aqua;
-    height: 70vh;
+    height: 100vh;
     width: 30vw;
 }
 footer{
     background-color: blueviolet;
-    height: 5vh;
+    height: 8vh;
 }
