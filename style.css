@@ -65,13 +65,14 @@ footer{
 }
 .popular img{
     float: left;
-    width: 17vw;
+    width: 24.5%;
     padding: 2vh;
 }
 .draculaura{
     margin-top: 1vh;
-    width: 86vh;
-    height: 35vh;
+    width: 70%;
+    height: 20%;
+    font-size: 90%;
     float: left;
     color: rgb(252, 99, 158);
     text-align: justify;
@@ -81,8 +82,8 @@ footer{
     padding-bottom: 1vh;
 }
 .draculaura a{
-    width: 10.5vh;
-    height: 3vh;
+    width: 12%;
+    height: 42%;
     background-color: rgb(179, 11, 81);
     text-decoration: none;
     color: azure;
