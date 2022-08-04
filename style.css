@@ -60,8 +60,8 @@ footer{
     flex-direction: row-reverse;
 }
 footer img{
-    zoom: 9%;
+    zoom: 8%;
     margin: 25px;
     display: flex;
-    margin-right: 20em;
+    margin-right: 35em;
 }
