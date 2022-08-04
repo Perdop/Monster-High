@@ -158,3 +158,30 @@ footer{
 .box2 li::marker{
     color: rgb(207, 124, 15);
 }
+#highlight{
+    height: 40%;
+    width: 90%;
+    margin: 5%;
+    background-color: rgb(180, 97, 248);
+    display: flex;
+    flex-direction: column;
+}
+#highlight div{
+    width: 100%;
+    height: 15%;
+    background-color: rgb(94, 8, 148);
+    display: flex;
+}
+#highlight div h4{
+    font-size: 120%;
+    color: azure;
+    padding: 1vh;
+    text-indent: 2vh;
+    display: flex;
+}
+#highlight ul li{
+    margin-left: 5vh;
+    font-size: 110%;
+    padding: 0.5vh;
+    color: rgb(255, 231, 77);
+}
