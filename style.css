@@ -68,7 +68,7 @@ aside{
     height: 100vh;
     width: 29vw;
     display: flex;
-    align-items:flex-end;
+    align-items:center;
     justify-content: center;
 }
 .galery{
