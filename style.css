@@ -71,6 +71,7 @@ aside{
     display: flex;
     align-items:center;
     justify-content: center;
+    flex-direction: column;
 }
 .galery{
     background-color: rgb(94, 47, 105);
@@ -91,7 +92,10 @@ aside{
     height: 22vh;
     width: 12vw;
 }
-input{
+form{
+    width: 100%;
+}
+#Search{
     width: 90%;
     height: 1.8em;
     font-size: 18px;
