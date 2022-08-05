@@ -73,7 +73,7 @@ footer{
     margin-top: 4vh;
     height: 8vh;
 }
-#dinastia{
+#dinastia2{
     background-color: rgb(37, 80, 14);
     width: 100%;
     height: 10%;
@@ -82,7 +82,7 @@ footer{
     text-indent: 2vh;
     display: flex;
 }
-.cleo{
+.cleo2{
     color: rgb(255, 234, 208);
     height: 24vh;
     width: 94%;
@@ -92,11 +92,11 @@ footer{
     font-size: 95%;
     text-align: justify;
 }
-.cleo h5{
+.cleo2 h5{
     font-size: 3vh;
     padding-bottom: 1vh;
 }
-.cleo a{
+.cleo2 a{
     background-color: rgb(37, 103, 27);
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -104,7 +104,7 @@ footer{
     padding: 0.5vh;
     float: right;
 }
-.nile{
+.nile2{
     background-color: rgb(6, 82, 22);
     height: 4vh;
     width: 94%;
