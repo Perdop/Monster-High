@@ -11,9 +11,27 @@ body{
     margin: auto;
 }
 header{
-    background-color: black;
+    background: url(img/menu-background.jpg);
+    background-size: 34%;
+    background-position: top;
     height: 35vh;
     margin-bottom: 4vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+}
+header nav{
+    background-color: rgb(77, 71, 80);
+    border-radius: 10px;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+header nav a{
+    color: white;
+    text-decoration: none;
+    font-size: clamp(1vh,1em,2vw);
 }
 body span{
     display: flex;
@@ -35,13 +53,13 @@ article span{
     display: flex;
     flex-direction: row;
 }
-.box1{
+.box2{
     background-color:darkgoldenrod;
     height: 53vh;
     width: 32vw;
 }
-.box2{
-    background-color: darkmagenta;
+.box1{
+    background-color: rgb(70, 16, 107);
     height: 53vh;
     width: 31vw;
 }
@@ -54,4 +72,54 @@ footer{
     background-color: blueviolet;
     margin-top: 4vh;
     height: 8vh;
+}
+#dinastia{
+    background-color: rgb(37, 80, 14);
+    width: 100%;
+    height: 10%;
+    color: rgb(255, 255, 255);
+    font-size: 3.5vh;
+    text-indent: 2vh;
+    display: flex;
+}
+.cleo{
+    color: rgb(255, 234, 208);
+    height: 24vh;
+    width: 94%;
+    padding: 1vh;
+    margin: 1vh;
+    margin-bottom: -0.5vh;
+    font-size: 95%;
+    text-align: justify;
+}
+.cleo h5{
+    font-size: 3vh;
+    padding-bottom: 1vh;
+}
+.cleo a{
+    background-color: rgb(37, 103, 27);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 2vh;
+    padding: 0.5vh;
+    float: right;
+}
+.nile{
+    background-color: rgb(6, 82, 22);
+    height: 4vh;
+    width: 94%;
+    display: flex;
+    justify-content: center;
+    margin-left: 2vh;
+    font-size: 4vh;
+    color: rgb(255, 240, 233);
+}
+.box1 ul li{
+    margin: 1vh;
+    margin-left: 4.5vh;
+    color: rgb(107, 201, 90);
+    line-height: 0.9em;
+}
+.box2 li::marker{
+    color: rgb(207, 124, 15);
 }
