@@ -64,6 +64,9 @@ article span{
     height: 53vh;
     width: 31vw;
 }
+.box2 ul {
+    line-height: 1em;
+}
 aside{
     background-color: rgb(157, 91, 173);
     height: 100vh;
@@ -215,8 +218,8 @@ footer img{
 }
 #highlight div{
     width: 100%;
-    height: 12vh;
-    background-color: rgb(94, 8, 148);
+    height: 30px;
+    background-color: rgb(61, 12, 75);
     display: flex;
 }
 #highlight div h4{
@@ -225,7 +228,11 @@ footer img{
     text-indent: 2vh;
     display: flex;
 }
+#highlight ul{
+    margin-top: 8px;
+}
 #highlight ul li{
+    line-height: 1em;
     margin-left: 5vh;
     font-size: 110%;
     padding: 0.5vh;
