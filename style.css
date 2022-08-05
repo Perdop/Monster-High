@@ -160,9 +160,6 @@ footer img{
 }
 #dinastia{
     background-color: rgb(10, 38, 80);
-}
-#dinastia2{
-    background-color: rgb(37, 80, 14);
     width: 100%;
     height: 10%;
     color: rgb(255, 255, 255);
@@ -170,7 +167,7 @@ footer img{
     text-indent: 2vh;
     display: flex;
 }
-.cleo2{
+.cleo{
     color: rgb(255, 234, 208);
     height: 24vh;
     width: 94%;
@@ -180,15 +177,12 @@ footer img{
     font-size: 95%;
     text-align: justify;
 }
-.cleo2 h5{
+.cleo h5{
     font-size: 3vh;
     padding-bottom: 1vh;
 }
 .cleo a{
     background-color: rgb(221, 123, 31);
-}
-.cleo2 a{
-    background-color: rgb(37, 103, 27);
     text-decoration: none;
     color: rgb(255, 255, 255);
     border-radius: 2vh;
@@ -197,9 +191,6 @@ footer img{
 }
 .nile{
     background-color: rgb(6, 36, 82);
-}
-.nile2{
-    background-color: rgb(6, 82, 22);
     height: 4vh;
     width: 94%;
     display: flex;
