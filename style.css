@@ -69,8 +69,10 @@ article span{
     display: none;
 }
 .tit1 p{
-    font-size: 17px;
-    margin: 15px;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .tit1 button{
     width: 5vw;
@@ -85,7 +87,7 @@ article span{
     width: 90%;
     margin-left: 5%;
     height: 4.5vh;
-    margin-top: 185px;
+    margin-top: 160px;
 }
 .tit2 h3{
     justify-content: center;
